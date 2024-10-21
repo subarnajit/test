@@ -1,0 +1,5 @@
+<routingInfo>
+        <protocol>http://</protocol>
+        <hostname env="sit" domain="PAYMENTS">127.0.0.1:5008</hostname>
+        <sslProxyProfile/>
+</routingInfo>
